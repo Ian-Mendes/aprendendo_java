@@ -18,8 +18,10 @@ public class Solution {
 	
 	public int equalSubstring(String s, String t, int maxCost) {
 		/*Método: equalSubstring.
-		 * Descobrir o tamanho da maior substring que possa ser formada a partir da transformação dos caracteres de str1 em str2, dado um custo limite (maxCost).
-		 * O custo é medido pela conversão da tabela ASCII, ou seja, custo = |str1[i]-str2[i]|. Para tal, foi utilizada a técnica Dynamic Sliding Window.
+		 * Descobrir o tamanho da maior substring.
+                 * A substring deve ser criada a partir da transformação dos caracteres de str1 em str2.		 
+		 * O custo é medido pela conversão da tabela ASCII, ou seja, custo = |str1[i]-str2[i]|.
+   		 *  Para tal, foi utilizada a técnica Dynamic Sliding Window.
 		 * @param String s, String t e int maxCost*
 		*@return int - tamanho da maior substring possível menor ou igual ao custo máximo fornecido.*/
 
