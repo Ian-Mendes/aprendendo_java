@@ -4,4 +4,5 @@ Minha jornada tentando resolver, ao menos, dois problemas em Java por semana! E 
 
 
 #1 - [Desafio LeetCode 1208!](https://github.com/Ian-Mendes/aprendendo_java/blob/main/Solution.java) Sempre tive dificuldades com substrings, então foi um prazer conseguir realizar esse daqui. 😵💞
+
 #2 - [Desafio LeetCode 344!](https://github.com/Ian-Mendes/aprendendo_java/blob/main/Reverse_String_344.java). Um swap simples! O importante aqui era entender que o número de iterações é a metade do tamanho do vetor. 
